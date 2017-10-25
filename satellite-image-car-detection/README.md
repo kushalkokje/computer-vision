@@ -1,5 +1,3 @@
-# achshah-lijguo-ssable-kkokje-a1
-
 ##Part 1:
 
 Compile: Run makefile to get watermark executable
